@@ -8,7 +8,7 @@ the owner of [Machina Tecnologia da Informação Ltda](https://github.com/machin
 You can sponsor my Tapestry work through GitHub Sponsors at
 [https://github.com/sponsors/machina-br](https://github.com/sponsors/machina-br).
 
-My avatar is a [pão de queijo](https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo)),
+My avatar is a [pão de queijo](https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo),
 which is the most typical food from the Minas Gerais state, Brazil 🇧🇷, where I was born and have been
 living almost my whole life.
 
